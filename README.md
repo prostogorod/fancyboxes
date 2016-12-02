@@ -45,20 +45,20 @@ Fancyboxes - плагин под Cotonti , с помощью которого м
 
 Для вызова swf файла по клику, например флеш игры, добавить класс various к ссылке:
 
-<a class="various" href="http://адрес сайта/файл.swf">SWF</a>
+&lt;a class="various" href="http://адрес сайта/файл.swf">SWF</a>
 Для вызова видео с youtube добавить класс fancybox-media к ссылке:
 
-<a class="fancybox-media" href="https://youtu.be/ваше видео">media</a>
+&lt;a class="fancybox-media" href="https://youtu.be/ваше видео">media</a>
 Вызов с помощью ajax
 
 Для вызова файла с помощью ajax добавить класс fancybox fancybox.ajax: 
 
-<a class="fancybox fancybox.ajax" href="http://ваш сайт/ваш файл">Ajax</a>
+&lt;a class="fancybox fancybox.ajax" href="http://ваш сайт/ваш файл">Ajax</a>
 Вызов в iframe
 
 Для вызова файла iframe добавить класс fancybox fancybox.iframe:
 
-<a class="fancybox fancybox.iframe" href="http://ваш сайт/ваш файл">Iframe</a>
+&lt;a class="fancybox fancybox.iframe" href="http://ваш сайт/ваш файл">Iframe</a>
 Кому нужно больше возможностей, используйте документацию:
 
 Скрипт fancyBox
