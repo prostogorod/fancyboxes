@@ -48,7 +48,7 @@ Fancyboxes - плагин под Cotonti , с помощью которого м
 &lt;a class="various" href="http://адрес сайта/файл.swf">SWF</a>
 Для вызова видео с youtube добавить класс fancybox-media к ссылке:
 
-&lt;a class="fancybox-media" href="https://youtu.be/ваше видео">media</a>
+&lt;a class="fancybox-media" href="http://youtu.be/ваше видео">media</a>
 Вызов с помощью ajax
 
 Для вызова файла с помощью ajax добавить класс fancybox fancybox.ajax: 
