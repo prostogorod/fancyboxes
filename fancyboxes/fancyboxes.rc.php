@@ -8,8 +8,8 @@ Hooks=rc
 /**
  * fancyBoxes plugin
  *
- * @author  WebRomen
- * @copyright Copyright (c) 2015 - today: WebRomen | https://github.com/WebRomen/fancyboxes
+ * @author Roffun
+ * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/fancyboxes-plugin
  * @license BSD
  */
 defined('COT_CODE') or die('Wrong URL.');

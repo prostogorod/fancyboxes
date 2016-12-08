@@ -6,8 +6,8 @@ Name=FancyBoxes
 Category=files-media
 Description=FancyBoxes - галерея на базе JQuery + fancyBox и jScale Image Scaler
 Version=1.1.1 
-Date=26-11-2016
-Author=WebRomen
+Date=08-12-2016
+Author=Roffun
 Copyright=Copyright (c) 2015 - today: WebRomen | https://github.com/WebRomen/fancyboxes
 Notes=BSD License
 Auth_guests=R
@@ -30,8 +30,8 @@ css=99:radio::1:Enable plugin CSS
 /**
  * fancyBoxes plugin
  *
- * @author  WebRomen
- * @copyright Copyright (c) 2015 - today: WebRomen | https://github.com/WebRomen/fancyboxes
+ * @author Roffun
+ * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/fancyboxes-plugin
  * @license BSD
  */
 
