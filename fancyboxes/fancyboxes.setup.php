@@ -8,7 +8,7 @@ Description=FancyBoxes - галерея на базе JQuery + fancyBox и jScal
 Version=1.1.1 
 Date=08-12-2016
 Author=Roffun
-Copyright=Copyright (c) 2015 - today: WebRomen | https://github.com/WebRomen/fancyboxes
+Copyright=Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
 Notes=BSD License
 Auth_guests=R
 Lock_guests=W12345A
@@ -31,7 +31,7 @@ css=99:radio::1:Enable plugin CSS
  * fancyBoxes plugin
  *
  * @author Roffun
- * @copyright Copyright (C) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/fancyboxes-plugin
+ * @copyright Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 
